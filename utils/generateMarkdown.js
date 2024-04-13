@@ -52,7 +52,7 @@ ${renderLicenseLink(data.license)}
 
 * [Contributing](#contributing)
 
-* [Authors and acknowledgement](#authorsandacknowledgment)
+* [Authors and acknowledgment](#authorsandacknowledgment)
 
 * [Tests](#tests)
 
@@ -96,7 +96,7 @@ ${data.tests}
 
 ## Questions
 
-If you have any questions about this repo, open an issue or contact me directly at ${
+If you have any questions or suggestions on how to improve the information on this page about, open an issue or contact me directly at ${
   data.email
 }. You can find more of my work at [${data.github}](https://github.com/${
   data.github

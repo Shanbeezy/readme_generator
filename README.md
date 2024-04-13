@@ -30,6 +30,7 @@ It's important to have a high quality README when creating open source projects.
 ## Badges
 
 ## Visuals
+[Readme Generator visual](<../../../../Downloads/README Generator.webm>)
 
 ## Installation
 

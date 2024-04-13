@@ -57,6 +57,8 @@ If you would like to help contribute to make this project better, please email m
 
 ## Authors and Acknowledgement
 
+This repo was made based off of a starter code from http://github.com/coding-boot-camp/potential-enigma.git.
+
 ## Tests
 
 To run tests, run the following command:

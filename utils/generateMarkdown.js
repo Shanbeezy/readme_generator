@@ -54,6 +54,8 @@ ${renderLicenseLink(data.license)}
 
 * [Authors and acknowledgment](#authorsandacknowledgment)
 
+* [License](#license)
+
 * [Tests](#tests)
 
 * [Questions](questions)
@@ -85,6 +87,8 @@ ${renderLicenseSection(data.license)}
 ${data.contributing}
 
 ## Authors and Acknowledgement
+
+## License
 
 ## Tests
 
